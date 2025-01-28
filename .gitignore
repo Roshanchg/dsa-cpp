@@ -1,4 +1,10 @@
-outputs
+/outputs/
 .vscode
+<<<<<<< HEAD
 test.cpp
 shuva/
+=======
+/shuva/*
+shuva
+test.cpp
+>>>>>>> 63395ee6bcfc8c5a82ac9aa98fe7fae0cc02aa8a
