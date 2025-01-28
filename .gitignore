@@ -1,4 +1,5 @@
 /outputs/
 .vscode
 /shuva/*
+shuva
 test.cpp
