@@ -8,7 +8,7 @@ void merge(int *arr, int *left, int leftSize, int *right, int rightSize) {
     // Merge elements from left and right arrays in sorted order
     while (i < leftSize && j < rightSize) {
         if (left[i] < right[j]) {
-            arr[k++] = left[i++];
+            arr[k++] = left[i++]; //ps k++ sets the initial value as 0 and +1 after the operation is done 
         } else {
             arr[k++] = right[j++];
         }

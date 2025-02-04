@@ -1,3 +1,12 @@
+<<<<<<< HEAD
 outputs
 .vscode
+=======
+/outputs/
+.vscode
+/shuva/*
+shuva
+test.cpp
+/Lab/*
+>>>>>>> ec66a8944467f91d340d1989ad6fcac21b949781
 Lab
